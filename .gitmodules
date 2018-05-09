@@ -1,0 +1,3 @@
+[submodule "csi/azurefile"]
+	path = csi/azurefile
+	url = https://github.com/karataliu/csi-plugins-azurefile
